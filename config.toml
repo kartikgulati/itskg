@@ -79,8 +79,8 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "$ cd /Kartik_Gulati"
-      logoHomeLink = "https://kartikgulati.github.io/itsme/"
-      url = "https://kartikgulati.github.io/itsme/"
+      logoHomeLink = "https://kartikgulati.github.io/itskg/"
+      url = "https://kartikgulati.github.io/itskg/"
     # or
     #
     # path = "/img/your-example-logo.svg"
