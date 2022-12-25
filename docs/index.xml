@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello! I&#39;am Kartik Gulati</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hello! I&#39;am Kartik Gulati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kartik Gulati&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 18 Jun 2021 21:55:31 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2</title>
+      <link>http://example.org/projects/techoutputs-copy/</link>
+      <pubDate>Fri, 18 Jun 2021 21:55:31 +0530</pubDate>
+      
+      <guid>http://example.org/projects/techoutputs-copy/</guid>
+      <description>TechOutputs is a technological blogging website, which provides daily tech updates, technological news, and a plethora of new inventions related to the tech world. Here you can also find the reviews of smartphones, smart tablets, laptops, and computer systems and hardware. I post regular content on TechOutputs, so that you are always updated about what is going on in Tech.
+Here is the link of TechOutputs. Go and check out the latest news of Tech World</description>
+    </item>
+    
+    <item>
+      <title>TechOutputs | Technology has some yield</title>
+      <link>http://example.org/projects/techoutputs/</link>
+      <pubDate>Thu, 18 Jun 2020 21:55:31 +0530</pubDate>
+      
+      <guid>http://example.org/projects/techoutputs/</guid>
+      <description>TechOutputs is a technological blogging website, which provides daily tech updates, technological news, and a plethora of new inventions related to the tech world. Here you can also find the reviews of smartphones, smart tablets, laptops, and computer systems and hardware. I post regular content on TechOutputs, so that you are always updated about what is going on in Tech.
+Here is the link of TechOutputs. Go and check out the latest news of Tech World</description>
+    </item>
+    
+    <item>
+      <title>$Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Thu, 18 Jun 2020 21:31:09 +0530</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>I would be available on Twitter almost all time except my sleep xD. Best would be ping me there for anything. If you don’t have Telegram, no problemo, you can reach me out on Instagram.
+For any formal correspondence, Email which has become too formal: [kartikgulati19@gmail.com](mailto: kartikgulati19@gmail.com)</description>
+    </item>
+    
+    <item>
+      <title>$whoami</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Thu, 18 Jun 2020 20:59:51 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I am Kartik Gulati, a young Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Kartik Gulati. If you ﬁnd some­one with the user­name Wecome2GulatiCityon any platform, you can be mostly sure its me.
+If you still want to know more about me then download my Resume .</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un nouveau thème</title>
+      <link>http://example.org/projects/creation-dun-nouveau-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/creation-dun-nouveau-theme/</guid>
+      <description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
+Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://example.org/projects/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+  </channel>
+</rss>
