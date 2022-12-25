@@ -34,7 +34,7 @@ publishDir = "docs"
     
 
 
-     [params.portrait]
+    # [params.portrait]
     path = "../img/kg_user.png"
     alt = "Portrait"
 
