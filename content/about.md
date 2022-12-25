@@ -1,0 +1,12 @@
+---
+title: "$whoami"
+date: 2020-06-18T20:59:51+05:30
+draft: false
+---
+
+#### I am Kartik Gulati, a young Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Kartik Gulati.
+
+ If you ﬁnd some­one with the user­name ```Wecome2GulatiCity```on any platform, you can be mostly sure its me.
+
+ If you still want to know more about me then download my [Resume](https://drive.google.com/drive/folders/1enQ9PNANjNckyNBBs-R7r5EoU_-cBGaI?usp=sharing) .
+
