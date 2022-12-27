@@ -99,5 +99,5 @@ publishDir = "docs"
     
      [[menu.main]]
     identifier = "projects"
-    name       = ">Projects"
+    name       = ">Projects"  
     url        = "projects/"
