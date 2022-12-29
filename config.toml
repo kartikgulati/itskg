@@ -32,9 +32,11 @@ publishDir = "docs"
     series   = "series"
 
 
-    # [params.portrait]
-    path = "../img/kg_user.png"
+     [params.portrait]
+    path = "https://i.ibb.co/fC2Nc8J/kg-user.png"
     alt = "Portrait"
+
+  
 
 
 
