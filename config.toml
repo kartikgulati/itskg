@@ -31,12 +31,12 @@ publishDir = "docs"
     tag      = "tags"
     series   = "series"
 
-    
-
 
     # [params.portrait]
     path = "../img/kg_user.png"
     alt = "Portrait"
+
+
 
   # Social icons
   [[params.social]]
@@ -101,3 +101,5 @@ publishDir = "docs"
     identifier = "projects"
     name       = ">Projects"  
     url        = "projects/"
+
+

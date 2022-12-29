@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kartikgulati.github.io/itskg/projects/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kartikgulati.github.io/itskg/</loc>
-    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+    <lastmod>2020-07-01T21:55:31+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/paramount/</loc>
-    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+    <lastmod>2020-07-01T21:55:31+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/</loc>
-    <lastmod>2020-06-18T21:55:31+05:30</lastmod>
+    <lastmod>2020-07-01T21:55:31+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/contact/</loc>
     <lastmod>2020-06-18T21:31:09+05:30</lastmod>
@@ -17,43 +20,30 @@
     <loc>https://kartikgulati.github.io/itskg/about/</loc>
     <lastmod>2020-06-18T20:59:51+05:30</lastmod>
   </url><url>
+    <loc>https://kartikgulati.github.io/itskg/projects/anlitiqs/</loc>
+    <lastmod>2020-06-01T21:55:31+05:30</lastmod>
+  </url><url>
+    <loc>https://kartikgulati.github.io/itskg/projects/hairkart/</loc>
+    <lastmod>2020-06-01T21:55:31+05:30</lastmod>
+  </url><url>
+    <loc>https://kartikgulati.github.io/itskg/projects/malgre/</loc>
+    <lastmod>2020-06-01T21:55:31+05:30</lastmod>
+  </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/techoutputs/</loc>
     <lastmod>2019-06-18T21:55:31+05:30</lastmod>
   </url><url>
-    <loc>https://kartikgulati.github.io/itskg/projects/creation-dun-nouveau-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/projects/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kartikgulati.github.io/itskg/series/hugo-101/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/series/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/../img/kg_user.png/</loc>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/blog/</loc>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/portrait/</loc>
+  </url><url>
+    <loc>https://kartikgulati.github.io/itskg/tags/</loc>
   </url>
 </urlset>

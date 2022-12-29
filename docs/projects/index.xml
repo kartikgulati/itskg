@@ -7,15 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kartik Gulati&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 21:55:31 +0530</lastBuildDate><atom:link href="https://kartikgulati.github.io/itskg/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2020 21:55:31 +0530</lastBuildDate><atom:link href="https://kartikgulati.github.io/itskg/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paramount Instruments | Wordpress website</title>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://kartikgulati.github.io/itskg/projects/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikgulati.github.io/itskg/projects/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Paramount Instruments | Business website</title>
       <link>https://kartikgulati.github.io/itskg/projects/paramount/</link>
-      <pubDate>Thu, 18 Jun 2020 21:55:31 +0530</pubDate>
+      <pubDate>Wed, 01 Jul 2020 21:55:31 +0530</pubDate>
       
       <guid>https://kartikgulati.github.io/itskg/projects/paramount/</guid>
       <description>Paramount Instruments Pvt. Ltd. is an associate company of the well- known “Paramount Group” , an ISO 9001 : 2015, ISO 14001 : 2015, ISO 45001:2018 Certified Group, Established in 1964. At Paramount, we are committed to providing OUTSTANDING QUALITY CONTROL SOLUTIONS and WORLD CLASS Testing Instruments for Textiles, Yarn, Fabric Inspection, Footwear, Leather, Artificial Leather, Automotive, Coated Fabrics, Non-Woven, Paper, Cardboard &amp;amp; Packaging Industry.
-Technology used to develop the Website: Wordpress,PHP 8,CSS 3</description>
+Technology used to develop the Website: Wordpress,PHP 8,CSS 3,HTML 5</description>
+    </item>
+    
+    <item>
+      <title>Anlitiqs | Company&#39;s Business Portfolio</title>
+      <link>https://kartikgulati.github.io/itskg/projects/anlitiqs/</link>
+      <pubDate>Mon, 01 Jun 2020 21:55:31 +0530</pubDate>
+      
+      <guid>https://kartikgulati.github.io/itskg/projects/anlitiqs/</guid>
+      <description>Anlitiqs is a Digital Marketing and Web Designing Company based in Delhi, India. We provide focused, results-oriented Digital Marketing services including Web Design, Search Engine Optimization, Website Hosting, Social Media Marketing, Content Writing, Email Marketing and Mobile Marketing. We are not just a Digital Marketing company, we are your Digital Marketing partners in India. Anlitiqs expert in converting visitors into customers and increasing sales quickly. We focus on ROI and use a variety of channels to create a large reach.</description>
+    </item>
+    
+    <item>
+      <title>Hairkart Salon | Customer Appointment Solution</title>
+      <link>https://kartikgulati.github.io/itskg/projects/hairkart/</link>
+      <pubDate>Mon, 01 Jun 2020 21:55:31 +0530</pubDate>
+      
+      <guid>https://kartikgulati.github.io/itskg/projects/hairkart/</guid>
+      <description>Hairkart Salon is based on the Customer Appointment Solution. Basically it is a system which helps businesses manage and schedule customer appointments. It typically includes features such as automated appointment reminders, online booking, customer profiles, and appointment analytics. Technology used to develop the Website: Wordpress,PHP 8,CSS 3, HTML 5</description>
+    </item>
+    
+    <item>
+      <title>Malgre Safety Shoes | E-commerce</title>
+      <link>https://kartikgulati.github.io/itskg/projects/malgre/</link>
+      <pubDate>Mon, 01 Jun 2020 21:55:31 +0530</pubDate>
+      
+      <guid>https://kartikgulati.github.io/itskg/projects/malgre/</guid>
+      <description>Malgre Safety Shoes is an e-commerce website for safety shoes, This is the online store where people can shop for, compare, and purchase safety shoes. Malgre Safety Shoes include features such as product reviews, detailed product descriptions, and filtering options to allow customers to easily find the perfect pair of safety shoes for their needs. Payment processing options is also be available so customers can quickly pay for their purchases.</description>
     </item>
     
     <item>
@@ -26,26 +64,6 @@ Technology used to develop the Website: Wordpress,PHP 8,CSS 3</description>
       <guid>https://kartikgulati.github.io/itskg/projects/techoutputs/</guid>
       <description>TechOutputs is a technological blogging website, which provides daily tech updates, technological news, and a plethora of new inventions related to the tech world. Here you can also find the reviews of smartphones, smart tablets, laptops, and computer systems and hardware. I post regular content on TechOutputs, so that you are always updated about what is going on in Tech.
 Here is the link of TechOutputs. Go and check out the latest news of Tech World</description>
-    </item>
-    
-    <item>
-      <title>Création d&#39;un nouveau thème</title>
-      <link>https://kartikgulati.github.io/itskg/projects/creation-dun-nouveau-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kartikgulati.github.io/itskg/projects/creation-dun-nouveau-theme/</guid>
-      <description>Introduction Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
-Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://kartikgulati.github.io/itskg/projects/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://kartikgulati.github.io/itskg/projects/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
     </item>
     
   </channel>
