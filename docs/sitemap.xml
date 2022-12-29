@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kartikgulati.github.io/itskg/projects/hairkart/</loc>
+    <lastmod>2020-07-01T21:55:31+05:30</lastmod>
+  </url><url>
     <loc>https://kartikgulati.github.io/itskg/</loc>
+    <lastmod>2020-07-01T21:55:31+05:30</lastmod>
+  </url><url>
+    <loc>https://kartikgulati.github.io/itskg/projects/malgre/</loc>
     <lastmod>2020-07-01T21:55:31+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/paramount/</loc>
@@ -18,12 +24,6 @@
     <lastmod>2020-06-18T20:59:51+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/anlitiqs/</loc>
-    <lastmod>2020-06-01T21:55:31+05:30</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/projects/hairkart/</loc>
-    <lastmod>2020-06-01T21:55:31+05:30</lastmod>
-  </url><url>
-    <loc>https://kartikgulati.github.io/itskg/projects/malgre/</loc>
     <lastmod>2020-06-01T21:55:31+05:30</lastmod>
   </url><url>
     <loc>https://kartikgulati.github.io/itskg/projects/techoutputs/</loc>

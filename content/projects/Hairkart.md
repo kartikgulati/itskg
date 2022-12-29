@@ -1,6 +1,6 @@
 ---
 title: "Hairkart Salon | Customer Appointment Solution"
-date: 2020-06-01T21:55:31+05:30
+date: 2020-07-01T21:55:31+05:30
 draft: false
 type:
 - post
