@@ -10,7 +10,7 @@ author: kartik Gulati
 
 {{< figure src="https://i.ibb.co/jwJrnpH/Add-a-Call-to-Ation-3.png" alt="Add-a-Call-to-Ation-3"  class="center" >}}
 
-### The primary functionality the VOYAGER is the combination of eCommerce and informational blog websites. 
+### The primary functionality of the VOYAGER is the combination of eCommerce and informational blog websites. 
 
 There are three main end-users, and every user has their perspective. The first one is Admin, which has all the administrative functionalities related to the customer's order manipulation, a list of all the logged-in users and Blog management.
 
