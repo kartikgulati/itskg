@@ -1,6 +1,6 @@
 ---
 title: "Paramount Instruments | Business website"
-date: 2020-08-01T21:55:31+05:30
+date: 2021-08-01T21:55:31+05:30
 draft: false
 type:
 - post
