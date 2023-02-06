@@ -8,7 +8,7 @@ type:
 author: kartik Gulati 
 ---
 
-{{< figure src="https://ibb.co/hdYm3qC"  class="center" >}}
+{{< figure src="https://i.ibb.co/jwJrnpH/Add-a-Call-to-Ation-3.png" alt="Add-a-Call-to-Ation-3"  class="center" >}}
 
 ### The primary functionality the VOYAGER is the combination of eCommerce and informational blog websites. 
 
