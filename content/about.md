@@ -6,7 +6,7 @@ draft: false
 
 {{< figure src="https://i.ibb.co/cNYVWLM/kg-user2.png" height="150" width="150" class="center rounded" >}}
 
-#### I am Kartik Gulati, a young Web Developer, Blogger, Teacher and Tech influencer, popularly known around the internet world as Kartik Gulati.
+#### I am Kartik Gulati, a young Web Developer, Blogger and a Tech lover(geek), popularly known around the internet world as Kartik Gulati.
 
  If you ﬁnd some­one with the user­name ```Welcome2GulatiCity```on any platform, you can be mostly sure its me.
 
