@@ -10,5 +10,5 @@ draft: false
 
  If you ﬁnd some­one with the user­name ```Welcome2GulatiCity```on any platform, you can be mostly sure its me.
 
- If you still want to know more about me then download my [Resume](https://drive.google.com/uc?export=download&id=1cQFqfD2IwjPjTQwDq3Bw4OReJ327oxd3) .
+ If you still want to know more about me then download my [Resume](https://kartikgulatiresume.netlify.app) .
 
